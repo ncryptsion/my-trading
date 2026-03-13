@@ -1,5 +1,5 @@
 # My Trading
-**NCryptsion's Trading Journey and Knowledge Hub.**
+**NCryptsion's Trading Journey and Knowledge Hub.**<br>
 This is based on my personal journey and experiences. You may use it as a source of learning, but it may not necessarily apply the same way for everyone, as each person is unique. Their mentality, behavior and likewise.
 
 ## Sayings
@@ -19,9 +19,9 @@ This is based on my personal journey and experiences. You may use it as a source
 - London–NY overlap
 
 **Characteristics**
-- Huge volatility
-- Big impulsive moves
-- Reacts strongly to news and liquidity
+- Huge volatility.
+- Big impulsive moves.
+- Reacts strongly to news and liquidity.
 
 ### Silver (XAGUSD)
 **Best Sessions**
@@ -29,13 +29,13 @@ This is based on my personal journey and experiences. You may use it as a source
 - London–NY overlap
 
 **Characteristics**
-- More explosive breakouts than gold
-- Whipsaws during low liquidity (especially Asia session)
-- Moves strongly with gold trends but often lags first, then accelerates
+- More explosive breakouts than gold.
+- Whipsaws during low liquidity (especially Asia session).
+- Moves strongly with gold trends but often lags first, then accelerates.
 
 ## Indicators
-**Main**
-- [Core Indicator](./Core%20Indicator.pine)
+**Main (Lower TF)**
+- [Core Indicator](./Core%20Indicator.pine): Minimalistic and Simple-As-Possible Indicator I made.
   - 3 EMAs (14, 26, 50).
   - Automatically place a resistance and support from current day higher high and lower low.
   - Automatically place a resistance and support from the previous day higher high and lower low (dotted).
@@ -43,15 +43,18 @@ This is based on my personal journey and experiences. You may use it as a source
   - Detect abnormally in Volume vs Trend.
   - Detect last 4 hours and 30 minutes trend.
   - Detect the volume of last 4 hours and 30 minutes.
+  - Automatically place a resistance and support for the candle with the overall ATH in both it's upper (resistance and support) and lower wicked (resistance) as purple dotted horizontal line.
 - [Core Divergence](./Core%20Divergence.pine): Improved version of the existing one created by [fikira12](https://github.com/fikira12).
   - Detect reversals, overbought and oversold.
   - Better resistance and support placed from repetitive momentums.
 
-**Helpers**
+**Main (Higher TF)**
 - **%R Trend Exhaustion**
   - Used to find potential reversals.
   - Awful for lower timeframe.
   - Minimum time frame is 2H with very high accuracy.
+
+**Helpers**
 - **Koncorde Plus**
   - Used to identify sections trend.
   - Used to identify reversals by sudden momentum, accurate.
