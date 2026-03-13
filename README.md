@@ -49,6 +49,9 @@ This is based on my personal journey and experiences. You may use it as a source
   - Better resistance and support placed from repetitive momentums.
 
 **Main (Higher TF)**
+- **LuxAlgo - Smart Money Concepts**
+  - Market structure.
+  - Price action.
 - **%R Trend Exhaustion**
   - Used to find potential reversals.
   - Awful for lower timeframe.
