@@ -34,6 +34,8 @@ This is based on my personal journey and experiences. You may use it as a source
 - Moves strongly with gold trends but often lags first, then accelerates.
 
 ## Indicators
+- The indicators from **EXNOVA-INDICATORS** are the indicators I have used when I first started trading with such determination, I moved from Olymptrade (my first broker) to Exnova.
+
 **Main (Lower TF)**
 - [Core Indicator](./Core%20Indicator.pine): Minimalistic and Simple-As-Possible Indicator I made.
   - 3 EMAs (14, 26, 50).
@@ -54,8 +56,8 @@ This is based on my personal journey and experiences. You may use it as a source
   - Price action.
 - **%R Trend Exhaustion**
   - Used to find potential reversals.
-  - Awful for lower timeframe.
-  - Minimum time frame is 2H with very high accuracy.
+  - Awful for lower TF.
+  - Minimum TF is 2H with very high accuracy.
 
 **Helpers**
 - **Koncorde Plus**
@@ -63,11 +65,11 @@ This is based on my personal journey and experiences. You may use it as a source
   - Used to identify reversals by sudden momentum, accurate.
   - Accurate in higher time-frame minimum of 30 minutes.
 - **Hull Suite**
-  - Any timeframe but mostly accurate in 30 minutes+.
+  - Any TF but mostly accurate in 30 minutes+.
   - Used to identify overall flow of trend.
   - Acts as resistance and support.
 - **Machine Learning: Lorentzian Classification (jdehorty)**
-  - Minimum timeframe 15 minutes, 30 minutes is nicer.
+  - Minimum TF 15 minutes, 30 minutes is nicer.
   - Acts as resistance and support.
   - Used to identify overall flow of trend.
   - Uses machine learning.
