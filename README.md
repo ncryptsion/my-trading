@@ -7,10 +7,15 @@ This is based on my personal journey and experiences. You may use it as a source
 
 ## Mistakes
 - Never trade in a bad consolidation.
-- Never trade in low volatility.
+- Never trade in low volatility or volume.
 - Always learn from your mistakes.
 - Always trust your setup, analysis and from what you have experienced. If you don’t trust your setup then don’t bother risking your money. If you trust your setup you see the long term not short term–as price can have fake momentums or hit stop loses of small traders.
 	- **Example:** The volume bar EMA does not match with the amount of volume bar and their color. Such as the EMA is too high but the volume bars in many timeframe is full of red bars.
+
+## Notes
+- Core Indicator
+  - 30m Volume for Buy is 100% = Buyers Rally (always keep in mind of reversal)
+  - 30m Volume for Sell is 100% = Sellers Rally (always keep in mind of reversal)
 
 ## Assets
 ### Gold (XAUUSD)
