@@ -4,8 +4,16 @@ This is based on my personal journey and experiences. You may use it as a source
 
 ## Sayings
 - The simpler the setup is, the better it is.
+- Setup without multiple backtests is simply gambling.
+- Lower TF for execution and substructure analysis, and Higher TF for overall trend and bias. Which is why regularly checking multiple TF is important.
+- Sometimes, an instrument does not follow technical analysis, especially when it is heavily influenced by external factors such as geopolitical conflicts, political statements and other significant events.
+- If you can't master liquidity, resistance and support then trading is simply not for you.
+- Never trade with emotions and feelings, only trade with logics. ONLY LOGICS, if any other then you must take a break or rest.
+- It is important to analyze your primary instrument market movements as thoroughly as possible to develop intuition and strengthen the foundation of your analysis, even when you're not trading. Over time by recognizing recurring price action patterns, you will be able to anticipate potential market behavior better.
+- There is always an opportunity in trading, never FOMO.
 
 ## Mistakes
+- Always have a checklist for your setup, if everything does not check, question yourself and everything before concluding your next move.
 - Never trade in a bad consolidation.
 - Never trade in low volatility or volume.
 - Always learn from your mistakes.
